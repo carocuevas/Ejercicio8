@@ -1,0 +1,180 @@
+.header {
+	height: 450px;
+	width: inherit;
+	color: white;
+	background-image: url("images/bg.jpeg");
+	top: 0px;
+	padding: 3em;
+	text-align: center;
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+ul.menu {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+ul.menu li {
+	box-sizing: border-box;
+	background: none;
+	width: 10%;
+	float: right;
+}
+ul.menu li a {
+	color: #909090;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+}
+ul.menu li a:hover {
+	color: green;
+}
+.img1{
+	max-width: 200px;
+	float: left;
+}
+.divbotonazul{
+	width: 150px;
+	left: 40%;
+	display: inline;
+}
+.divbotonazul a{
+	text-decoration: none;
+	color: white;
+	padding: 10px 30px 10px 30px;
+	background-color: #337ab7;
+	border-radius: 5px;
+}
+.divbotonverde {
+	background-color: #5cb85c;
+	border-radius: 5px;
+	width: 100px;
+	display: inline;
+	padding: 10px 30px 10px 30px;
+}
+.divbotonverde a{
+	text-decoration: none;
+	color: white;
+}
+.pbotones{
+	text-align: center;
+	display: inline;
+}
+.subtitulo{
+	padding: 20px 200px 0px 200px;	
+}
+body{
+	margin: 0;
+	font-weight: lighter;
+	font-family: sans-serif;
+
+}
+.img2 {
+	float: left;
+	margin-left: 30%;
+	max-width: 500px;
+}	
+footer{
+
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	padding: 100px 350px 0px 350px;
+	font-weight: normal;
+	font-family: sans-serif;
+	line-height: 1.8;
+}
+h3{
+	font-weight: normal;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 50px;
+	color: #393939;
+}
+.pbody1{
+	text-align: center;
+	padding: 0px 200px 0px 200px;
+	font-weight: lighter;
+	color: #393939;
+}
+.tercerdiv{
+	background-color: #f2f2f2;
+	border: solid 1px #ccc;
+	float: left;
+	width: inherit;
+	height: 400px;
+}
+.cuartodiv{
+	float: left;
+	width: 100%;
+	display: inline;
+	text-align: 500px;
+}
+.footer{
+	background-color: black;
+	width: 100%; 
+	float: left;
+}
+.footer h3{
+	color: #ccc;
+	text-align: left;
+	padding: 20px 0 20px 50px;
+	font-weight: normal;
+}
+.formulario {
+	text-align: center;
+}
+
+.formulario input,
+.formulario button {
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	color: #666;
+}
+.formulario input {	
+}
+.formulario button {
+	background-color: transparent;
+}
+
+.divbotontarea{
+    display: table;
+    padding: 10px 30px 10px 30px;
+    background-color: #337ab7;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.divbotontarea a{
+	text-decoration: none;
+    color: white;
+}
+
+.contacto {
+	width: 35%;
+	float: left;
+	background-color: white;
+	margin-left: 0px;
+}
+
+.sucribete{
+	width: 65%;
+	float: left;
+	background-color: white;
+}
+.pabajo{
+	text-align: left;
+	padding: 0px 50px 0px 200px;
+	font-weight: lighter;
+	color: #393939;
+	font-size: 12px;
+}
+.h44{
+	text-align: left;
+	padding: 0px 50px 0px 200px;
+	font-weight: lighter;
+	color: #393939;
+}
+
